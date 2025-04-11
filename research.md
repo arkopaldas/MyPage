@@ -5,11 +5,14 @@ title: Research
 
 # Research Interests
 
-My research focuses on the intersection of computer science, algorithms, and mathematical art. I am particularly interested in:
+My research focuses on several exciting areas in computer science. I am particularly interested in:
 
+- Graph Algorithms and their applications
+- Artificial Intelligence
+- NP Completeness and computational complexity
+- Quantum Computing
 - Algorithmic approaches to creating mathematical art
 - Computational methods in visual arts
-- Application development and performance optimization
 
 ## Current Research
 
