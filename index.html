@@ -1,0 +1,58 @@
+---
+layout: default
+title: Home
+---
+
+<div class="profile">
+  <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Arkopal Das">
+  <div class="profile-content">
+    <h2>{{ site.name }}</h2>
+    <p class="title">{{ site.position }}</p>
+    <p class="department">{{ site.department }}</p>
+    <p class="institution">{{ site.institution }}</p>
+    <p class="email"><strong>Email:</strong> {{ site.email }}</p>
+  </div>
+</div>
+
+<section class="bio">
+  <h2>About Me</h2>
+  <p>I am an Integrated PhD student in Computer Science at the Indian Association for the Cultivation of Science. My research interests include algorithms, mathematical art, and application development.</p>
+  
+  <p>Previously, I completed my Bachelor of Science in Computer Science & Electronics at Ramakrishna Mission Vidyamandira with a CGPA of 8.39. I have worked on several projects including mathematical art generation and cross-platform application development.</p>
+</section>
+
+<section class="recent-news">
+  <h2>Recent News</h2>
+  <ul>
+    <li>
+      <span class="date">December 2024</span>
+      <p>Presented my paper on "Algorithmic Approach for producing Agamographs" at OCIT-2024, 22nd OITS International Conference on Information Technology.</p>
+    </li>
+    <li>
+      <span class="date">August 2024</span>
+      <p>Started my Integrated PhD program at Indian Association for the Cultivation of Science.</p>
+    </li>
+    <li>
+      <span class="date">May 2024</span>
+      <p>Graduated with B.Sc. in Computer Science & Electronics from Ramakrishna Mission Vidyamandira.</p>
+    </li>
+  </ul>
+</section>
+
+<section class="featured-publications">
+  <h2>Featured Research</h2>
+  <ul>
+    <li>
+      <h3>Algorithmic Approach for producing Agamographs</h3>
+      <p class="authors">Arkopal Das</p>
+      <p class="venue">OCIT-2024, 22nd OITS International Conference on Information Technology</p>
+    </li>
+    <li>
+      <h3>Mathematical Art Project</h3>
+      <p class="authors">Arkopal Das (Under Prof. Jay Thakkar)</p>
+      <p class="venue">Research Internship at CCL IIT Gandhinagar (June 2023)</p>
+      <p>Devised algorithms and implemented them through programs to produce Mathematical Art as a part of STEM Education and Math Art Conferences.</p>
+    </li>
+  </ul>
+  <p class="see-more"><a href="{{ '/research' | relative_url }}">See more research</a></p>
+</section>
