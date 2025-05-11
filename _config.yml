@@ -5,7 +5,7 @@ email: arkopaldas27@gmail.com
 description: >-
   Computer Science PhD student at Indian Association for the Cultivation of Science,
   with interests in algorithms, mathematical art, and application development.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://arkopaldas.github.io/MyPage/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol, e.g. http://example.com
 
 # Social profiles
