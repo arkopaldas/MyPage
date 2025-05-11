@@ -6,7 +6,7 @@ description: >-
   Computer Science PhD student at Indian Association for the Cultivation of Science,
   with interests in algorithms, mathematical art, and application development.
 baseurl: "/MyPage" # the subpath of your site, e.g. /blog
-url: "https://arkopaldas.github.io" # the base hostname & protocol, e.g. http://example.com
+url: "" # the base hostname & protocol, e.g. http://example.com
 
 # Social profiles
 github: https://github.com/arkopaldas # Update this
